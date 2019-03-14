@@ -1,5 +1,9 @@
 # Prerequisites
 *.d
+*.vs
+
+# Config
+CmakeSettings.json
 
 # Object files
 *.o
